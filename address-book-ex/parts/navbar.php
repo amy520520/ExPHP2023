@@ -12,7 +12,10 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="add.php">新增</a>
-        </li>       
+        </li> 
+        <li class="nav-item">
+          <a class="nav-link" href="product-list.php">產品</a>
+        </li>         
       </ul>
     </div>
   </div>
